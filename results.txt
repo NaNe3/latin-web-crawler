@@ -1,0 +1,261 @@
+author	url
+Abbo Floriacensis	https://www.thelatinlibrary.com/abbofloracensis.html
+Abelard	https://www.thelatinlibrary.com/abel.historia.html
+Abelard	https://www.thelatinlibrary.com/abelard.html
+Addison	https://www.thelatinlibrary.com/addison.html
+Adso Dervensis	https://www.thelatinlibrary.com/adso.html
+Aelredus Rievallensis	https://www.thelatinlibrary.com/aelredus.html
+Alanus de Insulis	https://www.thelatinlibrary.com/alanus.html
+Albert of Aix	https://www.thelatinlibrary.com/albertofaix.html
+Albertano of Brescia	https://www.thelatinlibrary.com/albertanus.html
+Alcuin	https://www.thelatinlibrary.com/alcuin.html
+Alfonsi	https://www.thelatinlibrary.com/alfonsi.disciplina.html
+Ambrosius	https://www.thelatinlibrary.com/ambrose.html
+Ammianus	https://www.thelatinlibrary.com/ammianus.html
+Ampelius	https://www.thelatinlibrary.com/ampelius.html
+Andrea da Bergamo	https://www.thelatinlibrary.com/andreasbergoma.html
+Andreas Capellanus	https://www.thelatinlibrary.com/capellanus.html
+Annales Regni Francorum	https://www.thelatinlibrary.com/annalesregnifrancorum.html
+Annales Vedastini	https://www.thelatinlibrary.com/annalesvedastini.html
+Annales Xantenses	https://www.thelatinlibrary.com/xanten.html
+Anonymus Neveleti	https://www.thelatinlibrary.com/anon.nev.html
+Anselm	https://www.thelatinlibrary.com/anselm.html
+Apuleius	https://www.thelatinlibrary.com/apuleius.html
+Aquinas	https://www.thelatinlibrary.com/aquinas.html
+Archipoeta	https://www.thelatinlibrary.com/archpoet.html
+Arnobius	https://www.thelatinlibrary.com/arnobius.html
+Arnulf of Lisieux	https://www.thelatinlibrary.com/arnulf.html
+Asconius	https://www.thelatinlibrary.com/asconius.html
+Asserius	https://www.thelatinlibrary.com/asserius.html
+Augustine	https://www.thelatinlibrary.com/august.html
+Augustus	https://www.thelatinlibrary.com/aug.html
+Aurelius Victor	https://www.thelatinlibrary.com/victor.html
+Ausonius	https://www.thelatinlibrary.com/ausonius.html
+Avianus	https://www.thelatinlibrary.com/avianus.html
+Bacon	https://www.thelatinlibrary.com/bacon.html
+Balde	https://www.thelatinlibrary.com/balde.html
+Baldo	https://www.thelatinlibrary.com/baldo.html
+Bede	https://www.thelatinlibrary.com/bede.html
+Benedict	https://www.thelatinlibrary.com/benedict.html
+Berengar	https://www.thelatinlibrary.com/berengar.html
+Bernard of Cluny	https://www.thelatinlibrary.com/bernardcluny.html
+Biblia Sacra	https://www.thelatinlibrary.com/bible.html
+Boethius de Dacia	https://www.thelatinlibrary.com/boethiusdacia.html
+Bonaventure	https://www.thelatinlibrary.com/bonaventura.itinerarium.html
+Boskovic	https://www.thelatinlibrary.com/boskovic.html
+Boym	https://www.thelatinlibrary.com/1644.html
+Caesar	https://www.thelatinlibrary.com/caes.html
+Campion	https://www.thelatinlibrary.com/campion.html
+Carmen de Martyrio	https://www.thelatinlibrary.com/anon.martyrio.html
+Carmen in Victoriam	https://www.thelatinlibrary.com/carmeninvictoriam.html
+Carmina Burana	https://www.thelatinlibrary.com/carm.bur.html
+Cassiodorus	https://www.thelatinlibrary.com/cassiodorus.html
+Cato	https://www.thelatinlibrary.com/cato.frag.html
+Catullus	https://www.thelatinlibrary.com/catullus.html
+Certamen Links	https://www.thelatinlibrary.com/classics.html
+Christian Creeds	https://www.thelatinlibrary.com/creeds.html
+Cicero	https://www.thelatinlibrary.com/cic.html
+Claudian	https://www.thelatinlibrary.com/claudian.html
+Claudius Caesar	https://www.thelatinlibrary.com/claud.inscr.html
+Commodianus	https://www.thelatinlibrary.com/commodianus.html
+Conradus Celtis	https://www.thelatinlibrary.com/celtis.html
+Constitutum Constantini	https://www.thelatinlibrary.com/donation.html
+Cotta	https://www.thelatinlibrary.com/cotta.html
+Dante	https://www.thelatinlibrary.com/dante.html
+Declaratio Arbroathis	https://www.thelatinlibrary.com/arbroath.html
+Decretum Gelasianum	https://www.thelatinlibrary.com/decretum.html
+Descartes	https://www.thelatinlibrary.com/des.html
+Dies Irae	https://www.thelatinlibrary.com/diesirae.html
+Disticha Catonis	https://www.thelatinlibrary.com/cato.dis.html
+Donatus	https://www.thelatinlibrary.com/don.html
+Egeria	https://www.thelatinlibrary.com/egeria.html
+Einhard	https://www.thelatinlibrary.com/ein.html
+Ennius	https://www.thelatinlibrary.com/enn.html
+Ennodius	https://www.thelatinlibrary.com/ennodius.html
+Epistolae Austrasicae	https://www.thelatinlibrary.com/epistaustras.html
+Erasmus	https://www.thelatinlibrary.com/erasmus.html
+Erchempert	https://www.thelatinlibrary.com/erchempert.html
+Eucherius	https://www.thelatinlibrary.com/euc.laude.html
+Eucherius	https://www.thelatinlibrary.com/eucherius.html
+Eugippius	https://www.thelatinlibrary.com/eugippius.html
+Eutropius	https://www.thelatinlibrary.com/eutropius.html
+Fabe	https://www.thelatinlibrary.com/fabe.html
+Fabricius Montanus	https://www.thelatinlibrary.com/montanus.html
+Falcandus	https://www.thelatinlibrary.com/falcandus.html
+Falcone di Benevento	https://www.thelatinlibrary.com/falcone.html
+Ficino	https://www.thelatinlibrary.com/ficino.html
+Florus	https://www.thelatinlibrary.com/florus.html
+Foedus Aeternum	https://www.thelatinlibrary.com/foedusaeternum.html
+Forsett	https://www.thelatinlibrary.com/forsett.html
+Fredegarius	https://www.thelatinlibrary.com/fredegarius.html
+Frodebertus & Importunus	https://www.thelatinlibrary.com/frodebertus.html
+Frontinus	https://www.thelatinlibrary.com/frontinus.html
+Gaius	https://www.thelatinlibrary.com/gaius.html
+Galileo	https://www.thelatinlibrary.com/galileo/galileo.sid.html
+Gellius	https://www.thelatinlibrary.com/gellius.html
+Gesta Francorum	https://www.thelatinlibrary.com/gestafrancorum.html
+Gesta Romanorum	https://www.thelatinlibrary.com/gestarom.html
+Gioacchino da Fiore	https://www.thelatinlibrary.com/gioacchino.html
+Girolamo Vida	https://www.thelatinlibrary.com/scacchia.html
+Godfrey of Winchester	https://www.thelatinlibrary.com/godfrey.html
+Gregorii Mirabilia Urbis Romae	https://www.thelatinlibrary.com/mirabilia1.html
+Gregory IX	https://www.thelatinlibrary.com/gregory.html
+Gregory VII	https://www.thelatinlibrary.com/gregory7.html
+Gregory of Tours	https://www.thelatinlibrary.com/gregorytours.html
+Gregory the Great	https://www.thelatinlibrary.com/greg.html
+Gwinne	https://www.thelatinlibrary.com/gwinne.html
+Henry VII	https://www.thelatinlibrary.com/henry.html
+Henry of Settimello	https://www.thelatinlibrary.com/henrysettimello.html
+Historia Apolloni	https://www.thelatinlibrary.com/histapoll.html
+Historia Augusta	https://www.thelatinlibrary.com/sha.html
+Historia Brittonum	https://www.thelatinlibrary.com/histbrit.html
+Horace	https://www.thelatinlibrary.com/hor.html
+Hugo of St. Victor	https://www.thelatinlibrary.com/hugo.html
+Hydatius	https://www.thelatinlibrary.com/hydatius.html
+Hyginus	https://www.thelatinlibrary.com/hyginus.html
+Hymni et cantica	https://www.thelatinlibrary.com/hymni.html
+Hymni et cantica	https://www.thelatinlibrary.com/hymni.latini.html
+Iacobus de Voragine	https://www.thelatinlibrary.com/vorag.html
+Innocent III	https://www.thelatinlibrary.com/innocent.html
+Inquisitio	https://www.thelatinlibrary.com/inquisitio.html
+Instructions for Moderators	https://www.thelatinlibrary.com/modinst.html
+Isidore of Seville	https://www.thelatinlibrary.com/isidore.html
+Ius Romanum	https://www.thelatinlibrary.com/ius.html
+Janus Secundus	https://www.thelatinlibrary.com/janus.html
+Jerome	https://www.thelatinlibrary.com/jerome.html
+Johannes de Alta Silva	https://www.thelatinlibrary.com/thesauro.html
+Johannes de Plano Carpini	https://www.thelatinlibrary.com/johannes.html
+John of Garland	https://www.thelatinlibrary.com/garland.html
+Jordanes	https://www.thelatinlibrary.com/iordanes.html
+Julius Obsequens	https://www.thelatinlibrary.com/obsequens.html
+Junillus	https://www.thelatinlibrary.com/junillus.html
+Justin	https://www.thelatinlibrary.com/justin.html
+Justinian	https://www.thelatinlibrary.com/justinian.html
+Juvenal	https://www.thelatinlibrary.com/juvenal.html
+Lactantius	https://www.thelatinlibrary.com/lactantius.html
+Landor	https://www.thelatinlibrary.com/landor.html
+Latin Handouts	https://www.thelatinlibrary.com/101/index.html
+Legenda Regis Stephani	https://www.thelatinlibrary.com/legenda.stephani.html
+Leo of Naples	https://www.thelatinlibrary.com/leo.html
+Leo the Great	https://www.thelatinlibrary.com/leothegreat.html
+Lhomond	https://www.thelatinlibrary.com/lhomond.html
+Liber Kalilae et Dimnae	https://www.thelatinlibrary.com/kalila.html
+Liber Pontificalis	https://www.thelatinlibrary.com/liberpontificalis.html
+Livy	https://www.thelatinlibrary.com/liv.html
+Lotichius	https://www.thelatinlibrary.com/lotichius.html
+Lucan	https://www.thelatinlibrary.com/lucan.html
+Lucretius	https://www.thelatinlibrary.com/luc.html
+Luther	https://www.thelatinlibrary.com/luther.html
+Macarius of Alexandria	https://www.thelatinlibrary.com/macarius.html
+Macarius the Great	https://www.thelatinlibrary.com/macarius1.html
+Magna Carta	https://www.thelatinlibrary.com/magnacarta.html
+Maidstone	https://www.thelatinlibrary.com/maidstone.html
+Malaterra	https://www.thelatinlibrary.com/malaterra.html
+Manilius	https://www.thelatinlibrary.com/manilius.html
+Marbodus Redonensis	https://www.thelatinlibrary.com/marbodus.html
+Martial	https://www.thelatinlibrary.com/mart.html
+Marullo	https://www.thelatinlibrary.com/marullo.html
+Maximianus	https://www.thelatinlibrary.com/maximianus.html
+May	https://www.thelatinlibrary.com/may.html
+Melanchthon	https://www.thelatinlibrary.com/melancthon.html
+Milton	https://www.thelatinlibrary.com/milton.quintnov.html
+Minucius Felix	https://www.thelatinlibrary.com/minucius.html
+Mirabilia Urbis Romae	https://www.thelatinlibrary.com/mirabilia.html
+Mirandola	https://www.thelatinlibrary.com/mir.html
+Miscellanea Carminum	https://www.thelatinlibrary.com/miscmed.html
+Miscellany	https://www.thelatinlibrary.com/misc.html
+Naevius	https://www.thelatinlibrary.com/naevius.html
+Navagero	https://www.thelatinlibrary.com/navagero.html
+Neo-Latin	https://www.thelatinlibrary.com/neo.html
+Nepos	https://www.thelatinlibrary.com/nep.html
+Newton	https://www.thelatinlibrary.com/newton.html
+Nithardus	https://www.thelatinlibrary.com/nithardus.html
+Novatian	https://www.thelatinlibrary.com/novatian.html
+On-Line Declension Exercise	https://www.thelatinlibrary.com/decl.html
+Oresmius	https://www.thelatinlibrary.com/oresmius.html
+Origo gentis Langobardorum	https://www.thelatinlibrary.com/origo.html
+Otto of Freising	https://www.thelatinlibrary.com/ottofreising.html
+Ovid	https://www.thelatinlibrary.com/ovid.html
+Owen	https://www.thelatinlibrary.com/owen.html
+Papal Bulls	https://www.thelatinlibrary.com/papal.html
+Pascoli	https://www.thelatinlibrary.com/pascoli.html
+Passerat	https://www.thelatinlibrary.com/passerat.html
+Passio Perpetuae	https://www.thelatinlibrary.com/perp.html
+Paulinus Nolensis	https://www.thelatinlibrary.com/paulinus.poemata.html
+Paulus Diaconus	https://www.thelatinlibrary.com/pauldeacon.html
+Persius	https://www.thelatinlibrary.com/pers.html
+Petrarch	https://www.thelatinlibrary.com/petrarch.html
+Petronius	https://www.thelatinlibrary.com/petronius.html
+Petrus Blesensis	https://www.thelatinlibrary.com/blesensis.html
+Petrus de Ebulo	https://www.thelatinlibrary.com/ebulo.html
+Phaedrus	https://www.thelatinlibrary.com/phaedr.html
+Phineas Fletcher	https://www.thelatinlibrary.com/fletcher.html
+Piccolomini	https://www.thelatinlibrary.com/piccolomini.html
+Planctus destructionis	https://www.thelatinlibrary.com/planctus.html
+Plautus	https://www.thelatinlibrary.com/plautus.html
+Pliny the Elder	https://www.thelatinlibrary.com/pliny1.html
+Pliny the Younger	https://www.thelatinlibrary.com/pliny.html
+Poggio Bracciolini	https://www.thelatinlibrary.com/poggio.html
+Pontano	https://www.thelatinlibrary.com/pontano.html
+Priapea	https://www.thelatinlibrary.com/priapea.html
+Professio Contra Priscillianum	https://www.thelatinlibrary.com/professio.html
+Propertius	https://www.thelatinlibrary.com/prop.html
+Prosperus	https://www.thelatinlibrary.com/prosperus.html
+Prudentius	https://www.thelatinlibrary.com/prud.html
+Pseudoplatonica	https://www.thelatinlibrary.com/psplato.html
+Quid Novi?	https://www.thelatinlibrary.com/readme.html
+Quintilian	https://www.thelatinlibrary.com/quintilian.html
+Raoul of Caen	https://www.thelatinlibrary.com/raoul.html
+Regula ad Monachos	https://www.thelatinlibrary.com/regula.html
+Ricardi de Bury	https://www.thelatinlibrary.com/debury.html
+Richerus	https://www.thelatinlibrary.com/richerus.html
+Rimbaud	https://www.thelatinlibrary.com/rimbaud.html
+Roman Epitaphs	https://www.thelatinlibrary.com/epitaphs.html
+Ruaeus	https://www.thelatinlibrary.com/ruaeus.html
+Rutilius Namatianus	https://www.thelatinlibrary.com/rutilius.html
+Sallust	https://www.thelatinlibrary.com/sall.html
+Sannazaro	https://www.thelatinlibrary.com/sannazaro.html
+Scaliger	https://www.thelatinlibrary.com/scaliger.html
+Sedulius	https://www.thelatinlibrary.com/sedulius.html
+Seneca	https://www.thelatinlibrary.com/sen.html
+Septem Sapientum	https://www.thelatinlibrary.com/septsap.html
+Sigebert of Gembloux	https://www.thelatinlibrary.com/sigebert.html
+Silius Italicus	https://www.thelatinlibrary.com/silius.html
+Statius	https://www.thelatinlibrary.com/statius.html
+Stephanus de Varda	https://www.thelatinlibrary.com/oratio.stephani.html
+Suetonius	https://www.thelatinlibrary.com/suet.html
+Sulpicia	https://www.thelatinlibrary.com/sulpicia.html
+Sulpicius Severus	https://www.thelatinlibrary.com/sulpiciusseverus.html
+Syrus	https://www.thelatinlibrary.com/syrus.html
+Tacitus	https://www.thelatinlibrary.com/tac.html
+Terence	https://www.thelatinlibrary.com/ter.html
+Tertullian	https://www.thelatinlibrary.com/tertullian.html
+Theganus	https://www.thelatinlibrary.com/theganus.html
+Theodolus	https://www.thelatinlibrary.com/theodolus.html
+Theodosian Code	https://www.thelatinlibrary.com/theod.html
+Theophanes	https://www.thelatinlibrary.com/theophanes.html
+Thomas &agrave; Kempis	https://www.thelatinlibrary.com/kempis.html
+Thomas of Edessa	https://www.thelatinlibrary.com/thomasedessa.html
+Tibullus	https://www.thelatinlibrary.com/tib.html
+Valerius Flaccus	https://www.thelatinlibrary.com/valeriusflaccus.html
+Valerius Maximus	https://www.thelatinlibrary.com/valmax.html
+Varro	https://www.thelatinlibrary.com/varro.html
+Vegetius	https://www.thelatinlibrary.com/vegetius.html
+Vegius	https://www.thelatinlibrary.com/vegius.html
+Velleius Paterculus	https://www.thelatinlibrary.com/vell.html
+Venantius Fortunatus	https://www.thelatinlibrary.com/venantius.html
+Vico	https://www.thelatinlibrary.com/vico.orat6.html
+Vincent of L&eacute;rins	https://www.thelatinlibrary.com/vicentius.html
+Virgil	https://www.thelatinlibrary.com/verg.html
+Virginia Certamen Questions	https://www.thelatinlibrary.com/certamen/certamenquestions.html
+Vita Agnetis	https://www.thelatinlibrary.com/agnes.html
+Vita Caroli IV	https://www.thelatinlibrary.com/vitacaroli.html
+Vita Sancti Columbae	https://www.thelatinlibrary.com/columba.html
+Vitruvius	https://www.thelatinlibrary.com/vitruvius.html
+Waardenburg	https://www.thelatinlibrary.com/waardenburg.html
+Waltarius	https://www.thelatinlibrary.com/waltarius.html
+Walter Mapps	https://www.thelatinlibrary.com/mapps.html
+Walter of Ch&#226;tillon	https://www.thelatinlibrary.com/walter.html
+William of Apulia	https://www.thelatinlibrary.com/williamapulia.html
+William of Conches	https://www.thelatinlibrary.com/wmconches.html
+William of Tyre	https://www.thelatinlibrary.com/williamtyre.html
